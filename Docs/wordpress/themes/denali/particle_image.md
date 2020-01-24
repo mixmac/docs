@@ -32,8 +32,8 @@ These options affect the main area of the particle, and not the individual items
 | Title         | Enter a title for the particle.                                                             |
 | Description   | Enter a description for your particle.                                                      |
 | Grid Column   | Enter the number of columns you would like to have items displayed in.                      |
-| Layout        | Enables you to select between **Standard** and **Custom Columns** as a layout type.       |
-| Album Name    | Enter a name for the album of images featured in the particle's items.                      |
+| Layout        | Enables you to select between **Standard** and **Custom Columns** as a layout type.         |
+| Album Name    | Enter an album name to be able to page through the images featured in the particle's items. |
 
 ### Item Options
 
